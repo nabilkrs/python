@@ -1,4 +1,4 @@
-library ypython;
+library python;
 
 export 'src/flutterpython.dart.dart';
 Copyright (c) 2022 Nabil Krissane.
