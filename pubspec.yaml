@@ -1,6 +1,6 @@
 name: python
 description: Python is a Flutter plugin that allows the developer to execute a Python script inside Flutter.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/nabilkrs/python.git
 
 environment:
