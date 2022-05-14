@@ -7,8 +7,6 @@ import 'package:http/http.dart' as http;
 class _Result {
   String? result;
 
-  _Result({this.result});
-
   _Result.fromJson(Map<String, dynamic> json) {
     result = json['result'];
   }

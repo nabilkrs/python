@@ -1,4 +1,4 @@
-## 0.0.1
+## 0.0.2
 
 * Execute Python script inside Flutter.
 * Add Python module to work with.
